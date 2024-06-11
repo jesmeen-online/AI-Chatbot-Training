@@ -2,8 +2,8 @@
 
 This project is an intelligent chatbot web application built with Flask, Keras, and NLTK. The chatbot can handle various FAQs and provide appropriate responses based on a trained model.
 
-![Chatbot Screenshot](screenshot-web.png)
-![Chatbot Screenshot](screenshot-app.png)
+![Chatbot Screenshot](Screenshot-web.png)
+![Chatbot Screenshot](Screenshot-app.png)
 
 ## Features
 
